@@ -1,0 +1,7 @@
+19:16:40.052 [main] DEBUG TestComponenets.Listeners - ordersTest has started
+19:19:08.303 [main] DEBUG TestComponenets.Listeners - placeOrder has started
+19:19:34.943 [main] INFO  TestComponenets.Listeners - placeOrder has passed
+19:19:41.121 [main] DEBUG TestComponenets.Listeners - placeOrder has started
+19:20:08.053 [main] INFO  TestComponenets.Listeners - placeOrder has passed
+19:20:13.530 [main] DEBUG TestComponenets.Listeners - negativeScenario has started
+19:20:19.094 [main] ERROR TestComponenets.Listeners - negativeScenario has failed

@@ -1,0 +1,5 @@
+18:54:13.152 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+18:54:13.154 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+18:54:13.157 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+18:54:13.160 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+18:54:13.172 [main] DEBUG TestComponenets.Listeners - test has started
